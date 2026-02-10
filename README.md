@@ -115,7 +115,7 @@ Implemented a user profile management API with custom response handling.
 - All data is stored in memory using Java `List` collections.
 - No database was used.
 - No service or repository layers were implemented.
-- Controllers handle all logic directly (beginner-friendly approach).
+- Controllers handle all logic directly.
 - Proper REST annotations were used:
   - `@RestController`
   - `@RequestMapping`
@@ -153,4 +153,4 @@ restFull_api_26441
 ---
 
 ## Conclusion
-This assignment demonstrates the implementation of multiple RESTful APIs using Spring Boot, applying beginner-level Java code while following REST principles, proper HTTP methods, and status codes. All endpoints were fully tested and documented.
+This assignment demonstrates the implementation of multiple RESTful APIs using Spring Boot, applying Java code while following REST principles, proper HTTP methods, and status codes. All endpoints were fully tested and documented.
